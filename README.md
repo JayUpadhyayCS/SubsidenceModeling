@@ -25,6 +25,14 @@ In recent years, there has been a significant increase in groundwater pumping in
 
 ## Usage and Dependencies
 
+keras==2.9.0
+tensorflow==2.9.1
+scikit-learn==1.1.1
+seaborn==0.11.2
+matplotlib==3.5.2
+pandas==1.4.2
+notebook==6.4.12
+numpy==2.22
 
-
-## Authors and Acknowledgment
+## Acknowledgment
+We thank Mariam Salloum, Kyongsik Yun, and Analisa Flores.
