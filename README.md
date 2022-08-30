@@ -1,7 +1,5 @@
 # SubsidenceModeling
 
-# JPL_Dashboard_UCR_Fellowship_2022
-
 ## Table of Contents
 - [Overview](#overview)
 - [How To Run](#how-to-run)
