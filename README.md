@@ -20,7 +20,6 @@ In recent years, there has been a significant increase in groundwater pumping in
 
 ## How To Run
 * First, download and install all the necessary tools/software listed under the dependencies. 
-* Next, fix the file paths within each of the files
 * Run files
 
 ## Usage and Dependencies
