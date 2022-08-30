@@ -12,10 +12,10 @@ In recent years, there has been a significant increase in groundwater pumping in
 
 
 ## Team
-Dovhaniuk, Andrii ; BS in Data Science at UCR
-Godishala, Shreya ; MS in Computer Science at UCR
-Tungamitta Madhusudhan ; MS in Computer Science at UCR
-Upadhyay, Jay	; BS in Computer Science at UCR
+- Dovhaniuk, Andrii ; BS in Data Science at UCR
+- Godishala, Shreya ; MS in Computer Science at UCR
+- Tungamitta Madhusudhan ; MS in Computer Science at UCR
+- Upadhyay, Jay	; BS in Computer Science at UCR
 
 
 
