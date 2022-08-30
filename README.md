@@ -9,7 +9,7 @@
 ## Overview
 In recent years, there has been a significant increase in groundwater pumping in the Central Valley area. This area is known as an agricultural hub that now suffers from land subsidence due to the excess pumping of groundwater. NASA JPL has been tracking the land deformation from 2014 to 2019. We were given snapshots of data for every two weeks within the five year period. The data provided to us includes longitude, latitude, displacement, and precipitation of the Central Valley region. With this data, our goal is to explore models and predict subsidence accurately. 
 
-
+[Link to Modeling Report](https://drive.google.com/file/d/12z1KwS3QkmdyKd_zrW3BRgSGAypJ_6dA/view?usp=sharing)
 ## Team
 - Dovhaniuk, Andrii ; BS in Data Science at UCR
 - Godishala, Shreya ; MS in Computer Science at UCR
